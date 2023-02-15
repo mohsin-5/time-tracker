@@ -3,4 +3,4 @@ Java (Maven) application for tracking time on the job
 
 Time tracker
 
-Sample Project from Technical Guftgu ... with many bugs :)
+Sample Project from Technical Guftgu ... 
